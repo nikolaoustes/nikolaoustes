@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefanos Nikolaou</h1>
 <h3 align="center">A passionate Machine Learning Engineer/Data Scientist from Greece.</h3>
 
-- 📫 How to reach me **nikolaoustes@hotmail.com and https://www.linkedin.com/in/stefanosnikolaou/**
+- 📫 How to reach me **nikolaoustes@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
